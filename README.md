@@ -3,6 +3,10 @@
 Escopo: criação de um sistema de cadastro, edição e exclusão de estudantes, com verificação de idade e uso de API para preenchimento do endereço do cadastrado.
 A solicitação faz parte de um assessment para a empresa K2A Tecnologia.</i>
 
+<div align="center">
+  <img src="https://i.imgur.com/L6nf10w.png" alt="Imagem">
+</div>
+
 <h2>O desafio</h2>
 Desenvolver um sistema de cadastro de pessoas básico:
 
@@ -204,6 +208,8 @@ END;
 <img src="https://i.imgur.com/13NU1zX.gif">
 <br><br>
 
+<div align="center">
+
 <hr>
 <H3>Credencias para teste</H3>
 
@@ -214,6 +220,7 @@ END;
 |teste	   | teste
 <hr>
 
+</div>
 <h2> Considerações finais </h2>
 Foi utilizado a API do VIACEP para preenchimento automatico do endereço do usuario. 
 Todas as ações do sistema, cadastro, edição e exclusão de registro são feitas via procedure o responsavel por fazer a "chamada" da procedure na ação do clique do botão, foi removida a encryptografia de senhas de usuarios com acesso ao sistema estava sendo utilizado SHA256 porém removi a encryptografia de senha porque o painel para criação de usuarios não foi desenvolvido, para inserir um novo usario você pode utilizar o INSERT na tabela UserMaster.<br>
