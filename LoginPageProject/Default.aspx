@@ -113,7 +113,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title" id="modalCadastrarEstudanteLabel">Cadastrar Novo Estudante</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <button type="button" class="close" data-dismiss="modal" onclick="$('#modalCadastrarEstudante').modal('hide')" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
@@ -151,7 +151,7 @@
                         <input type="hidden" class="form-control" id="cadastrarDataHoraCadastro">
                     </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                    <button type="button" class="btn btn-secondary" onclick="$('#modalCadastrarEstudante').modal('hide')"data-dismiss="modal">Fechar</button>
                     <button type="button" class="btn btn-primary" onclick="cadastrarNovoEstudante()">Salvar</button>
                 </div>
             </div>
@@ -165,7 +165,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title" id="modalEditarEstudanteLabel">Editar Estudante</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                <button type="button" class="close" data-dismiss="modal" onclick="$('#modalEditarEstudante').modal('hide')" aria-label="Fechar">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -204,7 +204,7 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                <button type="button" class="btn btn-secondary" onclick="$('#modalEditarEstudante').modal('hide')" data-dismiss="modal">Fechar</button>
                 <button type="button" class="btn btn-primary" onclick="salvarAlteracoes()">Salvar</button>
             </div>
         </div>
