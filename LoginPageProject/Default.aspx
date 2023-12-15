@@ -263,7 +263,7 @@
                         .append($('<td>').text(estudante.Escolaridade))
                         .append($('<td>').text(estudante.NomeEscola))
                         .append($('<td>').text(estudante.DataHoraCadastro))
-                        .append($('<td>').html('<a href="#" onclick="editarEstudante(' + JSON.stringify(estudante).replace(/"/g, "&quot;") + '); return false;">Editar</a> | <a href="#" onclick="deletarEstudante(' + estudante.EstudanteID + '); return false;">Deletar</a>'));
+                        .append($('<td>').html('<a href="#" onclick="editarEstudante(' + JSON.stringify(estudante).replace(/"/g, "&quot;") + '); return false;"><span data-feather="edit"></span></a> | <a href="#" onclick="deletarEstudante(' + estudante.EstudanteID + '); return false;"><span data-feather="trash"></span></a>'));
 
                     $('#tabelaEstudantes tbody').append(row);
                 });
