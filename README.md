@@ -1,5 +1,7 @@
 <h1 align="center"> Teste de Desenvolvimento .NET & MSSQL</h1>
-<i>Este teste de desenvolvido foi solicitado pela empresa BitGrow, criação de um sistema de cadastro, edição e exclusão de estudantes, com verificação de idade e uso de API para preenchimento do endereço do cadastrado.</i>
+<i>Esta solicitação de desenvolvido foi realizada a partir de um pedido da empresa BitGrow.
+Escopo: criação de um sistema de cadastro, edição e exclusão de estudantes, com verificação de idade e uso de API para preenchimento do endereço do cadastrado.
+A solicitação faz parte de um assessment para a empresa K2A Tecnologia.</i>
 
 <h2>O desafio</h2>
 Desenvolver um sistema de cadastro de pessoas básico:
