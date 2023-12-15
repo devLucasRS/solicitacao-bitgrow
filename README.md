@@ -4,7 +4,7 @@ Escopo: criação de um sistema de cadastro, edição e exclusão de estudantes,
 A solicitação faz parte de um assessment para a empresa K2A Tecnologia.</i>
 
 <div align="center">
-  <img src="https://i.imgur.com/L6nf10w.png" alt="Imagem">
+  <img src="https://i.imgur.com/L6nf10w.png" width="30%">
 </div>
 
 <h2>O desafio</h2>
@@ -185,7 +185,7 @@ END;
 <br>
 
 2. Painel principal:<br>
-<i>No painel principal do sistema nos temos a listagem com os estudantes cadastrados.</i>
+<i>No painel principal do sistema nos temos a listagem com os estudantes cadastrados. (Esta imagem é apenas um GIF)</i>
 
 <img src="https://i.imgur.com/Y7oQDqk.png">
 <br><br>
