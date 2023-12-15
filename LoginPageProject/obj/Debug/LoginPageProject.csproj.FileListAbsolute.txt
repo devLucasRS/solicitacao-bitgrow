@@ -1,0 +1,20 @@
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\bin\LoginPageProject.dll.config
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\bin\LoginPageProject.dll
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\bin\LoginPageProject.pdb
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\obj\Debug\LoginPageProject.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\obj\Debug\LoginPageProject.dll
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\obj\Debug\LoginPageProject.pdb
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\LoginPageInAsp.Net-main\LoginPageProject\bin\LoginPageProject.dll.config
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\LoginPageInAsp.Net-main\LoginPageProject\bin\LoginPageProject.dll
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\LoginPageInAsp.Net-main\LoginPageProject\bin\LoginPageProject.pdb
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\LoginPageInAsp.Net-main\LoginPageProject\obj\Debug\LoginPageProject.csproj.AssemblyReference.cache
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\LoginPageInAsp.Net-main\LoginPageProject\obj\Debug\LoginPageProject.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\LoginPageInAsp.Net-main\LoginPageProject\obj\Debug\LoginPageProject.dll
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\LoginPageInAsp.Net-main\LoginPageProject\obj\Debug\LoginPageProject.pdb
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\Projeto_BitGrow\LoginPageProject\obj\Debug\LoginPageProject.csproj.AssemblyReference.cache
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\Projeto_BitGrow\LoginPageProject\obj\Debug\LoginPageProject.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\Projeto_BitGrow\LoginPageProject\bin\Teste_Bitgrow.dll.config
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\Projeto_BitGrow\LoginPageProject\bin\Teste_Bitgrow.dll
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\Projeto_BitGrow\LoginPageProject\bin\Teste_Bitgrow.pdb
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\Projeto_BitGrow\LoginPageProject\obj\Debug\Teste_Bitgrow.dll
+C:\Users\Lucas Santos\OneDrive - K2A PARTNERS CONSULTORIA LTDA\Área de Trabalho\Projeto_BitGrow\LoginPageProject\obj\Debug\Teste_Bitgrow.pdb
